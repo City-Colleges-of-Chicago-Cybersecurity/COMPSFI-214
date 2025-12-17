@@ -1,12 +1,12 @@
 ---
 layout: default
-title: COMPSFI 213 – Ethical Hacking
+title: COMPSFI 214 – Information Security System Analysis
 ---
 
-# COMPSFI 213 - Ethical Hacking
+# COMPSFI 214 - Information Security System Analysis
 **City Colleges of Chicago**
 
-This is the official course page for COMPSFI 213 at City Colleges of Chicago. In this hands-on course, students will explore the foundational principles and techniques of ethical hacking. Through practical exercises and real-world scenarios, you’ll learn how attackers compromise systems—and more importantly, how to defend against them. Topics include network attack methodologies, penetration testing tools, and effective countermeasures. Writing assignments relevant to cybersecurity practices are also incorporated throughout the course.
+This course examines the integral components of effective Cybersecurity practices including Threat Management, Vulnerability Management, Cyber Incident Response, and Security Architecture. The course provides an overview of the challenges faced when attempting to build and maintain secure systems in a networked environment and explores the monitoring of systems for identification and response to intrusions and breaches. Writing assignments, as appropriate to the discipline, are part of the course.
 
 ---
 
