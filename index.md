@@ -12,25 +12,26 @@ This course examines the integral components of effective Cybersecurity practice
 
 ## Course Overview
 
-- Learn how to ethically discover, exploit, and report vulnerabilities.
-- Use industry tools such as Nmap, Wireshark, Metasploit, Burp Suite, and more.
-- Practice skills in isolated lab environments using Hack The Box Academy and virtual machines.
-- Understand legal considerations and reporting frameworks.
-- Build a foundation for careers in cybersecurity and penetration testing.
+- Analyze cybersecurity threats, risks, and vulnerabilities from a systems perspective
+- Examine how organizations design and maintain secure information systems
+- Study incident response processes and security operations
+- Evaluate security architectures using defense-in-depth principles
+- Understand the role of policies, standards, and frameworks in cybersecurity
+- Develop written analyses and reports communicating security findings and recommendations
+
+This course provides foundational knowledge applicable to careers in cybersecurity, information assurance, risk management, and security operations.
 
 ---
 
 ## Course Objectives
 
-Upon successful completion of this course, students will be able to:
-
-- Analyze common cyber threats and attack vectors affecting enterprise systems
-- Assess vulnerabilities in systems, networks, and applications
-- Explain and apply incident response processes and frameworks
-- Evaluate and design security architectures using defense-in-depth principles
-- Interpret cybersecurity risks in the context of organizational goals
-- Apply industry standards, frameworks, and best practices to security problems
-- Communicate security findings and recommendations through written analysis
+- Identify and analyze common cyber threats and attack vectors
+- Assess vulnerabilities in information systems and networked environments
+- Explain incident response lifecycle phases and operational procedures
+- Evaluate security architectures and control implementations
+- Apply risk management concepts to cybersecurity decision-making
+- Interpret and apply industry standards, frameworks, and best practices
+- Communicate technical and strategic security concepts through professional writing
 
 ---
 
@@ -52,7 +53,12 @@ Wiley Publishing
 
 ## Assignments & Labs
 
-All labs and assignments must be submitted via **Brightspace** or pushed to your private GitHub repo (TBD per assignment).
+- Written security analyses and case studies
+- Risk and architecture evaluations
+- Quizzes and exams
+- Applied exercises and discussions
+
+All assignments must be submitted through **Brightspace**, unless otherwise specified.
 
 **Late Policy:**  
 Assignments are due by **11:59 PM** on the scheduled date.  
@@ -62,7 +68,7 @@ Late work may be accepted with prior approval.
 
 ## Academic Integrity
 
-Ethical behavior is the foundation of cybersecurity. Plagiarism, unauthorized collaboration, or malicious activity will result in academic discipline. Respect lab boundaries and only test in designated environments.
+Ethical conduct is fundamental to the field of cybersecurity. Students are expected to adhere to all academic integrity policies. Plagiarism, unauthorized collaboration, or misuse of systems and tools outside approved activities will result in disciplinary action.
 
 ---
 
