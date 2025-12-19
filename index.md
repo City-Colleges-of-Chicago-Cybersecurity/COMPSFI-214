@@ -22,13 +22,15 @@ This course examines the integral components of effective Cybersecurity practice
 
 ## Course Objectives
 
-By the end of this course, students will be able to:
+Upon successful completion of this course, students will be able to:
 
-- Explain the legal and ethical standards for penetration testing.
-- Perform information gathering and enumeration.
-- Identify common vulnerabilities and perform basic exploitation.
-- Apply appropriate countermeasures and hardening strategies.
-- Document findings in a professional format.
+- Analyze common cyber threats and attack vectors affecting enterprise systems
+- Assess vulnerabilities in systems, networks, and applications
+- Explain and apply incident response processes and frameworks
+- Evaluate and design security architectures using defense-in-depth principles
+- Interpret cybersecurity risks in the context of organizational goals
+- Apply industry standards, frameworks, and best practices to security problems
+- Communicate security findings and recommendations through written analysis
 
 ---
 
@@ -40,11 +42,11 @@ Office Hours: By appointment / Virtual drop-ins via Zoom
 
 ## Materials
 
-- [HTB Academy Course Link](https://academy.hackthebox.com/)
-- Optional Reading:
-  - *The Web Application Hacker’s Handbook*
-  - *Hacking: The Art of Exploitation*
-- Weekly cheat sheets and walkthroughs will be posted here.
+**(ISC)² Official Study Guide – CISSP (Certified Information Systems Security Professional)**  
+Latest Edition  
+Wiley Publishing
+
+> The CISSP Official Study Guide serves as the primary reference for this course and aligns with industry-recognized security domains, terminology, and best practices.
 
 ---
 
