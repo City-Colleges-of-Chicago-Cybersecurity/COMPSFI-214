@@ -10,6 +10,10 @@ This course examines the integral components of effective Cybersecurity practice
 
 ---
 
+## Year
+
+- [Spring 2026](2026/Spring/)
+
 ## Course Overview
 
 - Analyze cybersecurity threats, risks, and vulnerabilities from a systems perspective
@@ -77,8 +81,3 @@ Ethical conduct is fundamental to the field of cybersecurity. Students are expec
 Check here or on [Brightspace](https://brightspace.ccc.edu) for the latest course updates and deadlines.
 
 ---
-
-## Year
-- [Summer 2025](2025/Summer/)
-- [Fall 2025](2025/Fall/)
-- [Spring 2026](2026/Spring/)
