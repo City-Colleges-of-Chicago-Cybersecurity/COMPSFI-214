@@ -4,7 +4,7 @@ title: COMPSFI 214 – Information Security System Analysis
 ---
 
 # COMPSFI 214 - Information Security System Analysis
-**City Colleges of Chicago**
+### **City Colleges of Chicago**
 
 This course examines the integral components of effective Cybersecurity practices including Threat Management, Vulnerability Management, Cyber Incident Response, and Security Architecture. The course provides an overview of the challenges faced when attempting to build and maintain secure systems in a networked environment and explores the monitoring of systems for identification and response to intrusions and breaches. Writing assignments, as appropriate to the discipline, are part of the course.
 
