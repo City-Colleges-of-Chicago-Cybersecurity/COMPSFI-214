@@ -1,7 +1,13 @@
-# Lab 01 – Network Scanning
+# Lab 01 – Security Governanace Through Principles and Policies
 
-Objective: Use Nmap to discover hosts and services on a target network.
+Objective: Answer each question.
 
-## Tasks
-- Perform a ping sweep
-- Conduct a port scan
+## Questions
+
+1. Discuss and describe the CIA Triad.
+
+2. What are the requirements to hold a person accountable for the actions of their user account?
+
+3. Name the six primary security roles as defined by ISC2 for CISSP.
+
+4. What are the four components of a complete organizational security policy and their basic purpose?

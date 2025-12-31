@@ -1,6 +1,6 @@
 # Lab Assignments
 
-In addition to your HackTheBox assignemnts, you will have supplementary quick lab assignments with various tools to help your hacking adventures. 
+Here written labs will be posted each week.
 
 ## Content
 - [Lab 01](lab01.md)
