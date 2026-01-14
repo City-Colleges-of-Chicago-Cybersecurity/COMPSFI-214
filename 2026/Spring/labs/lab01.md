@@ -1,4 +1,4 @@
-# Lab 01 – Security Governanace Through Principles and Policies
+# Lab 01 – Security Governance Through Principles and Policies
 
 Objective: Answer each question.
 
