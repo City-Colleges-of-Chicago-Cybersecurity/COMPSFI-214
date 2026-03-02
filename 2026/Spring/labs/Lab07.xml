@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <paragraph index="9" node_type="writer">Lab 07 – PKI and Cryptographic Applications</paragraph>
+ <paragraph index="11" node_type="writer">Objective: Answer each question.</paragraph>
+ <paragraph index="13" node_type="writer">Questions</paragraph>
+ <paragraph index="15" node_type="writer">1. Explain the process Bob should use if he wants to send a confidential message to Alice using asymmetric cryptography.</paragraph>
+ <paragraph index="17" node_type="writer">2. Explain the process Alice would use the decrypt the message Bob sent in question 1.</paragraph>
+ <paragraph index="19" node_type="writer">3. Explain the process Bob should use digitally sign a message to Alice.</paragraph>
+ <paragraph index="21" node_type="writer">4. Explain the process Alice should use to verify the digital signature on the message from Bob in question 3.</paragraph>
+</indexing>
